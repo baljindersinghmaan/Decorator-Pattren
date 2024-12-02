@@ -3,6 +3,6 @@ namespace DecoratorPattern;
     {
         public string GetText()
         {
-            return "ConcreteComponet";
+            return "Baljinder Singh Maan";
         }
     }
